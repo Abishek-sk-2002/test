@@ -11,8 +11,4 @@ You can also define relative links and image paths in your rendered files to hel
 
 In summary, a well-written README file can make your project stand out, provide valuable information to users and contributors, and help manage your project effectively.
 
-Source: Conversation with Bing, 30/12/2023
-(1) About READMEs - GitHub Docs. https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes.
-(2) What is README.md File? - GeeksforGeeks. https://www.geeksforgeeks.org/what-is-readme-md-file/.
-(3) About READMEs - GitHub AE Docs. https://docs.github.com/en/github-ae@latest/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes.
-(4) What is GitHub README File and Markdown? - GeeksforGeeks. https://www.geeksforgeeks.org/what-is-github-readme-file-and-markdown/.
+
